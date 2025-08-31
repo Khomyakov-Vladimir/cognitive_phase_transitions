@@ -1,0 +1,44 @@
+{
+  "title": "Cognitive Phase Transitions in Subjective Physics: Modeling Synchronization and Order Parameters with Reproducible Simulations",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher",
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "This work provides a reproducible computational framework for studying cognitive phase transitions within Subjective Physics. Using an adaptive network of $N=40$ agents, it distinguishes local pairwise coherence (MPC) from global order (Kuramoto mean-field amplitude) and demonstrates a non-monotonic critical transition characterized by cluster reorganization, a transient desynchronization valley, and stabilization into a high-coherence phase. Python simulations with explicit parameter control enable transparent, reproducible experiments, offering a practical platform for exploring emergent collective dynamics and observer-state reorganization in cognitive systems.",
+  "license": "MIT",
+  "keywords": [
+    "complex systems",
+    "dynamical systems",
+    "phase transitions",
+    "synchronization",
+    "kuramoto model",
+    "adaptive networks",
+    "cognitive science",
+    "cognitive modeling",
+    "reproducible research",
+    "subjective physics",
+    "order parameters",
+    "simulation",
+    "python"
+  ],
+  "version": "1.0",
+  "upload_type": "software",
+  "doi": "10.5281/zenodo.17011035",
+  "publication_date": "2025-08-31",
+  "language": "en",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.17011035",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isBasedOn",
+      "identifier": "10.5281/zenodo.16888675",
+      "scheme": "doi"
+    }
+  ]
+}

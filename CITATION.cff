@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Cognitive Phase Transitions in Subjective Physics: Modeling Synchronization and Order Parameters with Reproducible Simulations"
+version: "1.0"
+doi: "10.5281/zenodo.17011035"
+url: "https://doi.org/10.5281/zenodo.17011035"
+date-released: 2025-08-31
+publisher: "Zenodo"
+authors:
+  - family-names: "Khomyakov"
+    given-names: "Vladimir"
+keywords:
+  - complex systems
+  - dynamical systems
+  - phase transitions
+  - synchronization
+  - kuramoto model
+  - adaptive networks
+  - cognitive science
+  - cognitive modeling
+  - reproducible research
+  - subjective physics
+  - order parameters
+  - simulation
+  - python
+abstract: |
+  This article investigates cognitive phase transitions within the framework of Subjective Physics, providing direct computational evidence of a critical transition in an adaptive network of $N=40$ cognitive agents. We explicitly distinguish between the global order parameter $|\langle\psi\rangle|$ (Kuramoto mean-field amplitude) and the Mean Pairwise Coherence (MPC), a measure of local synchronization. A clear non-monotonic transition was detected at control parameter $r_c = \num{1.534}$, characterized by a sharp change ($|\Delta\text{MPC}|=\num{0.133}$) indicating a structural reorganization of the system's synchronized clusters. Following a transient period of desynchronization (MPC minimum $\sim\num{0.42}$), the system stabilizes into a high-coherence phase (post-transition $\text{MPC} = \num{0.992} \pm \num{0.007}$). The results demonstrate a phenomenology analogous to second-order phase transitions in physical systems, confirming key hypotheses of Subjective Physics regarding the reorganization of observer states.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Khomyakov"
+      given-names: "Vladimir"
+  title: "Cognitive Phase Transitions in Subjective Physics: Modeling Synchronization and Order Parameters with Reproducible Simulations"
+  version: "1.0"
+  publisher: "Zenodo"
+  year: 2025
+  month: 8
+  doi: "10.5281/zenodo.17011035"
+  url: "https://doi.org/10.5281/zenodo.17011035"
